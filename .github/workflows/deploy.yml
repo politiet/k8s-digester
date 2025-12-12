@@ -3,6 +3,7 @@ on:
     branches:
       - main
     tags:
+      - '**'
 
 name: Go Build (ko.build)
 

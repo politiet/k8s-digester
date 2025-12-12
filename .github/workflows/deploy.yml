@@ -2,6 +2,7 @@ on:
   push:
     branches:
       - main
+    tags:
 
 name: Go Build (ko.build)
 
